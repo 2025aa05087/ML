@@ -1,0 +1,21 @@
+id	age	sex	dataset	cp	trestbps	chol	fbs	restecg	thalch	exang	oldpeak	slope	ca	thal	num
+901	57	Male	VA Long Beach	asymptomatic	122	264	FALSE	lv hypertrophy	100	FALSE	0				1
+902	55	Male	VA Long Beach	non-anginal			FALSE	st-t abnormality							0
+903	55	Male	VA Long Beach	asymptomatic	120	226	FALSE	lv hypertrophy	127	TRUE	1.7	downsloping		reversable defect	1
+904	56	Male	VA Long Beach	asymptomatic	130	203	TRUE	normal	98	FALSE	1.5	flat		reversable defect	1
+905	57	Male	VA Long Beach	asymptomatic	130	207	FALSE	st-t abnormality	96	TRUE	1	flat			0
+906	61	Male	VA Long Beach	non-anginal		284	FALSE	normal							1
+907	61	Male	VA Long Beach	non-anginal	120	337	FALSE	normal	98	TRUE	0				3
+908	58	Male	VA Long Beach	non-anginal	150	219	FALSE	st-t abnormality	118	TRUE	0				2
+909	74	Male	VA Long Beach	asymptomatic	155	310	FALSE	normal	112	TRUE	1.5	downsloping			2
+910	68	Male	VA Long Beach	non-anginal	134	254	TRUE	normal	151	TRUE	0			normal	0
+911	51	Female	VA Long Beach	asymptomatic	114	258	TRUE	lv hypertrophy	96	FALSE	1	upsloping			0
+912	62	Male	VA Long Beach	asymptomatic	160	254	TRUE	st-t abnormality	108	TRUE	3	flat			4
+913	53	Male	VA Long Beach	asymptomatic	144	300	TRUE	st-t abnormality	128	TRUE	1.5	flat			3
+914	62	Male	VA Long Beach	asymptomatic	158	170	FALSE	st-t abnormality	138	TRUE	0				1
+915	46	Male	VA Long Beach	asymptomatic	134	310	FALSE	normal	126	FALSE	0			normal	2
+916	54	Female	VA Long Beach	asymptomatic	127	333	TRUE	st-t abnormality	154	FALSE	0				1
+917	62	Male	VA Long Beach	typical angina		139	FALSE	st-t abnormality							0
+918	55	Male	VA Long Beach	asymptomatic	122	223	TRUE	st-t abnormality	100	FALSE	0			fixed defect	2
+919	58	Male	VA Long Beach	asymptomatic		385	TRUE	lv hypertrophy							0
+920	62	Male	VA Long Beach	atypical angina	120	254	FALSE	lv hypertrophy	93	TRUE	0				1
